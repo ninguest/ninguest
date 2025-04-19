@@ -11,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0  # This is important to avoid the conflict
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -20,13 +22,15 @@ jobs:
           SHOW_TIME: true
           SHOW_TOTAL: true
           COMMIT_MESSAGE: "Updated weekly WakaTime stats"
-          SECTION_NAME: waka-week
+          SECTION_NAME: waka  # Default section name
 
   update-alltime:
     name: Update All-Time Stats
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0  # This is important to avoid the conflict
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -36,4 +40,4 @@ jobs:
           SHOW_TIME: true
           SHOW_TOTAL: true
           COMMIT_MESSAGE: "Updated all-time WakaTime stats"
-          SECTION_NAME: waka-all-time
+          SECTION_NAME: wakaalltime  # Changed to not use hyphens
