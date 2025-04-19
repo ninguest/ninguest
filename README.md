@@ -57,6 +57,10 @@ me.say_hi()
 ## 🐍 Contribution Graph
 ![Snake animation](https://github.com/ninguest/ninguest/blob/output/github-contribution-grid-snake.svg)
 
+## 📊 My Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

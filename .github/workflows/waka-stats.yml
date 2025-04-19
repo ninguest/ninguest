@@ -1,0 +1,39 @@
+name: WakaTime Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'  # Runs at midnight every day
+
+jobs:
+  update-weekly:
+    name: Update Weekly Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          TIME_RANGE: last_7_days
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          COMMIT_MESSAGE: "Updated weekly WakaTime stats"
+          SECTION_NAME: waka-week
+
+  update-alltime:
+    name: Update All-Time Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          TIME_RANGE: all_time
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          COMMIT_MESSAGE: "Updated all-time WakaTime stats"
+          SECTION_NAME: waka-all-time
