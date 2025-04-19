@@ -59,13 +59,11 @@ me.say_hi()
 
 ## 📊 My Coding Stats
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-## 📊 This Week I Spent My Time On:
-<!--START_SECTION:waka-->
 
 ```txt
-From: 11 April 2025 - To: 18 April 2025
+From: 18 April 2025 - To: 18 April 2025
+
+Total Time: 0 secs
 
 No activity tracked
 ```
