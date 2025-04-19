@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋 
+# Hello, I'm ninguest. 👋 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ninguest&color=brightgreen)
 [![GitHub followers](https://img.shields.io/github/followers/ninguest?label=Followers&style=social)](https://github.com/ninguest)
@@ -22,10 +22,10 @@ me = Developer()
 me.say_hi()
 ```
 
-- 🔭 I'm currently working on **[Hugo Blog]**
-- 🌱 I'm learning **[how make money 💵]**
-- 📫 How to reach me: **[nineguesttt@gmail.com]**
-- ⚡ Fun fact: **[Sometimes, I'm super lazy to do anything.]**
+- 🔭 I'm currently working on **[Hugo Blog](https://gohugo.io/)**
+- 🌱 I'm learning **[how make money 💵](https://i.imgflip.com/222pk5.jpg)**
+- 📫 How to reach me: **[Email](mailto:ninguesttt@gmail.com)**
+- ⚡ Fun fact: **Sometimes, I'm super lazy to do anything.**
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/teeyucheng) 
