@@ -63,6 +63,15 @@ me.say_hi()
 
 ## 📊 My All-Time Stats
 <!--START_SECTION:wakaalltime-->
+
+```txt
+From: 18 April 2025 - To: 18 April 2025
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:wakaalltime-->
 
 ## 👨‍💻 Recent Activity
