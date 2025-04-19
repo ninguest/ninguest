@@ -5,22 +5,8 @@
 [![GitHub User's stars](https://img.shields.io/github/stars/ninguest?style=social)](https://github.com/ninguest)
 
 ## 💫 About Me:
-```python
-class Developer:
-    def __init__(self):
-        self.name = "ninguest"
-        self.role = "Application Developer"
-        self.languages = ["Python", "JavaScript", "Java", "Kotlin"]
-        self.frameworks = ["Hugo", "Node.js", "Django", "Flask", "ExpressJS", "ElectronJS"]
-        self.tools = ["Docker", "Vercel", "Git", "VS Code"]
-        self.hobbies = ["Coding", "Reading", "Dreaming"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
 
-me = Developer()
-me.say_hi()
-```
+![1697369349810](https://github.com/user-attachments/assets/9c762eae-c720-4d4b-b120-8720768247e7)
 
 - 🔭 I'm currently working on **[Hugo Blog](https://gohugo.io/)**
 - 🌱 I'm learning **[how make money 💵](https://i.imgflip.com/222pk5.jpg)**
