@@ -75,5 +75,5 @@ CSS          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ## 👨‍💻 Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/9guest/test/pull/3) in [9guest/test](https://github.com/9guest/test)
+1. 🎉 Merged PR [#4](https://github.com/ninguest/CSC3107_TerrorismIndex_Visualization_Project/pull/4) in [ninguest/CSC3107_TerrorismIndex_Visualization_Project](https://github.com/ninguest/CSC3107_TerrorismIndex_Visualization_Project)
 <!--END_SECTION:activity-->
