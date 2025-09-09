@@ -75,5 +75,5 @@ CSS          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ## 👨‍💻 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/ninguest/CSC3107_TerrorismIndex_Visualization_Project/pull/4) in [ninguest/CSC3107_TerrorismIndex_Visualization_Project](https://github.com/ninguest/CSC3107_TerrorismIndex_Visualization_Project)
+1. 🎉 Merged PR [#1](https://github.com/ninguest/ippt-trainer/pull/1) in [ninguest/ippt-trainer](https://github.com/ninguest/ippt-trainer)
 <!--END_SECTION:activity-->
