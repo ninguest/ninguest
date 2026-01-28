@@ -60,7 +60,7 @@ No activity tracked
 <!--START_SECTION:wakaalltime-->
 
 ```txt
-From: 18 April 2025 - To: 25 January 2026
+From: 18 April 2025 - To: 26 January 2026
 
 Total Time: 6 hrs 36 mins
 
