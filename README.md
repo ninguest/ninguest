@@ -90,15 +90,16 @@
   <a href="https://leetcode.com/ychengz/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=#FFA116" alt="LeetCode"/>
   </a>
+  <!-- Digital Portfolio -->
+  <a href="https://ninguest.github.io/myportfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ninguest&label=Profile%20views&color=brightgreen&style=flat-square" alt="Profile views"/>
 </div>
 
-<!-- Optional fun closer -->
-<div align="center">
-  <br/>
-  <img src="https://github.com/ninguest/ninguest/blob/main/assets/matrix.gif?raw=true" width="400" alt="matrix vibe"/>
-  <p><i>May your bugs be few and your merges conflict-free ✌️</i></p>
-</div>
+<br/>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&border=true&animation=twinkling)
