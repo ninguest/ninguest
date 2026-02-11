@@ -1,78 +1,104 @@
-# Hello, I'm ninguest. 👋 
+<!-- 
+  Tip: Preview how this looks on your actual profile!
+  Many elements update automatically (stats, streak, etc.)
+-->
 
-![Profile Views](https://komarev.com/ghpvc/?username=ninguest&color=brightgreen)
-[![GitHub followers](https://img.shields.io/github/followers/ninguest?label=Followers&style=social)](https://github.com/ninguest)
-[![GitHub User's stars](https://img.shields.io/github/stars/ninguest?style=social)](https://github.com/ninguest)
-
-## 💫 About Me:
-
-![1697369349810](https://github.com/user-attachments/assets/9c762eae-c720-4d4b-b120-8720768247e7)
-
-- 🔭 I'm currently working as Software Engineer Intern in **[MXHL PTE. LTD. (uParcel)](https://recordowl.com/company/mxhl-pte-ltd)**
-- 🌱 I'm learning **[how make money 💵](https://i.imgflip.com/222pk5.jpg)**
-- 📫 How to reach me: **[Email](mailto:teeyucheng.sg@gmail.com)**
-- ⚡ Fun fact: **Sometimes, I'm super lazy to do anything.**
-
-## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/teeyucheng) 
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/YOUR-TWITTER)  -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://ninguest.github.io/myportfolio)
-
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ninguest&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ninguest&theme=radical&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninguest&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+
+  <!-- Animated header - feels modern and welcoming -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hey%20there!%20I'm%20YuCheng&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff" alt="header" width="100%"/>
+
+  <!-- Quick status badges - shows you're active & skilled -->
+  <p>
+    <a href="https://github.com/ninguest?tab=repositories">
+      <img src="https://img.shields.io/badge/Repositories-∞-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+    </a>
+    <a href="https://github.com/ninguest">
+      <img src="https://img.shields.io/github/followers/ninguest?style=for-the-badge&color=purple&logo=github" alt="Followers"/>
+    </a>
+    <img src="https://img.shields.io/badge/Status-Undergrad%20CS%20🔬-blueviolet?style=for-the-badge" alt="status"/>
+  </p>
+
+  <h2>👋 Welcome to my digital lab</h2>
+
+  Computing Science undergraduate • Passionate about systems, algorithms & building things that matter  
+  Currently working as **Software Engineer Intern** at **[MXHL PTE. LTD. (uParcel)](https://recordowl.com/company/mxhl-pte-ltd)** (until 10 April 2026)
+
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ninguest&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- Typing animation - very eye-catching but not overused -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=console.log('Hello,+world!');keep+trying+...;I'm+so+hungry+....;no+more+bugs+PLEASE+!+!+!;How+to+earn+money+by+just+lying+on+bed?" alt="Typing SVG" />
+</div>
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ninguest&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- GitHub stats - recruiters love seeing real activity -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ninguest&theme=radical&hide_border=true" alt="Streak" width="48%"/>
+</div>
 
-## 🐍 Contribution Graph
-![Snake animation](https://github.com/ninguest/ninguest/blob/output/github-contribution-grid-snake.svg)
+<br/>
 
-## 📊 My Coding Stats
-<!--START_SECTION:waka-->
+<!-- Tech stack - visual & scannable -->
+<h3 align="center">🛠️ Tech Stack</h3>
 
-```txt
-From: 03 February 2026 - To: 10 February 2026
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,arduino,bash,bootstrap,c,cpp,cloudflare,cmake,codepen,css,debian,discord,bots,discordjs,django,docker,electron,express,fastapi,flask,git,github,githubactions,gmail,html,instagram,java,js,jquery,kotlin,linkedin,linux,md,mint,mongodb,mysql,netlify,nextjs,nodejs,npm,postgres,postman,powershell,pycharm,raspberrypi,react,redis,spring,stackoverflow,supabase,tailwind,twitter,ubuntu,vercel,vscode,webstorm,windows,yarn&perline=8" alt="skills"/>
+  </a>
+</p>
 
-Total Time: 0 secs
+<!-- Currently learning / focus areas - shows growth mindset -->
+<h3 align="center">🌱 Currently diving deep into</h3>
 
-No activity tracked
-```
+<p align="center">
+  • Systems Programming & OS concepts<br>
+  • Algorithms & Data Structures (LeetCode / Competitive Programming)<br>
+  • Kotlin for Mobile Development<br>
+  • Getting better at writing clean, maintainable code
+</p>
 
-<!--END_SECTION:waka-->
+<br/>
 
-## 📊 My All-Time Stats
-<!--START_SECTION:wakaalltime-->
+<!-- Projects showcase - most important section after stats -->
+<h3 align="center">🔥 Some Projects I'm Proud Of</h3>
 
-```txt
-From: 18 April 2025 - To: 09 February 2026
+<div align="center">
 
-Total Time: 6 hrs 36 mins
+| Project | Description | Tech | Links |
+|---------|-------------|------|-------|
+| **GenAI Delivery Service Assistant: SmartAdmin** | uParcel Internship Industry Capstone Project | ElectronJS | [Project Page Link](https://uparcelchengz.github.io/smartadmin/app/) |
+| **Smart Agricultural System** | IoT & Network Project in SIT | Arduino, Raspberry Pi | [YouTube Link](https://www.youtube.com/watch?v=CbVCd1aVSm4) |
+| **Accessible Tours Project 2025: Navigating Nature** | Glasgow Overseas Immersion Programme (OIP) Project | HTML,CSS,JS | [Project Page Link](https://ninguest.github.io/navigating-nature/main/) |
+| **Real-Time Misinformation Detection in Social Networks: A Scalable AI-Driven Approach** | Cloud & Distributed Computing Project in SIT |  | [YouTube Link](https://www.youtube.com/watch?v=JBZSR6jH9ps) 
+</div>
 
-Markdown     5 hrs 53 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀   87.56 %
-YAML         32 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.11 %
-HTML         9 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.26 %
-Other        7 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.82 %
-CSS          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.21 %
-```
+<br/>
 
-<!--END_SECTION:wakaalltime-->
+<!-- Connect / social proof -->
+<h3 align="center">🌐 Let's Connect</h3>
 
-## 👨‍💻 Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<p align="center">
+  <a href="https://linkedin.com/in/teeyucheng">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:teeyucheng.sg@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <!-- Optional: add LeetCode / Codeforces badge if active -->
+  <a href="https://leetcode.com/ychengz/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=#FFA116" alt="LeetCode"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ninguest&label=Profile%20views&color=brightgreen&style=flat-square" alt="Profile views"/>
+</div>
+
+<!-- Optional fun closer -->
+<div align="center">
+  <br/>
+  <img src="https://github.com/ninguest/ninguest/blob/main/assets/matrix.gif?raw=true" width="400" alt="matrix vibe"/>
+  <p><i>May your bugs be few and your merges conflict-free ✌️</i></p>
+</div>
