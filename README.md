@@ -8,9 +8,9 @@
 
 ![1697369349810](https://github.com/user-attachments/assets/9c762eae-c720-4d4b-b120-8720768247e7)
 
-- 🔭 I'm currently working on **[Hugo Blog](https://gohugo.io/)**
+- 🔭 I'm currently working as Software Engineer Intern in **[MXHL PTE. LTD. (uParcel)](https://recordowl.com/company/mxhl-pte-ltd)**
 - 🌱 I'm learning **[how make money 💵](https://i.imgflip.com/222pk5.jpg)**
-- 📫 How to reach me: **[Email](mailto:ninguesttt@gmail.com)**
+- 📫 How to reach me: **[Email](mailto:teeyucheng.sg@gmail.com)**
 - ⚡ Fun fact: **Sometimes, I'm super lazy to do anything.**
 
 ## 🌐 Connect With Me:
