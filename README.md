@@ -71,7 +71,9 @@
 | **GenAI Delivery Service Assistant: SmartAdmin** | uParcel Internship Industry Capstone Project | ElectronJS | [Project Page Link](https://uparcelchengz.github.io/smartadmin/app/) |
 | **Smart Agricultural System** | IoT & Network Project in SIT | Arduino, Raspberry Pi | [YouTube Link](https://www.youtube.com/watch?v=CbVCd1aVSm4) |
 | **Accessible Tours Project 2025: Navigating Nature** | Glasgow Overseas Immersion Programme (OIP) Project | HTML,CSS,JS | [Project Page Link](https://ninguest.github.io/navigating-nature/main/) |
-| **Real-Time Misinformation Detection in Social Networks: A Scalable AI-Driven Approach** | Cloud & Distributed Computing Project in SIT |  | [YouTube Link](https://www.youtube.com/watch?v=JBZSR6jH9ps) 
+| **Real-Time Misinformation Detection in Social Networks: A Scalable AI-Driven Approach** | Cloud & Distributed Computing Project in SIT | kafka,ML,grafana,prometheus | [YouTube Link](https://www.youtube.com/watch?v=JBZSR6jH9ps) | 
+More projects on my <a href="https://ninguest.github.io/myportfolio/">digital portfolio</a>.
+
 </div>
 
 <br/>
@@ -105,3 +107,5 @@
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&border=true&animation=twinkling" alt="inspirational-quote"/>
 </div>
+
+<br/>
