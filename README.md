@@ -102,4 +102,6 @@
 
 <br/>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&border=true&animation=twinkling)
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&border=true&animation=twinkling" alt="inspirational-quote"/>
+</div>
